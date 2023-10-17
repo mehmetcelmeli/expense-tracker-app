@@ -1,5 +1,5 @@
 
-Live demo:https://jolly-basbousa-6be048.netlify.app
+Live Demo: https://celmeli-expense-tracker.netlify.app
 
 ## A SHORT VIEW OF APPLICATON
 
